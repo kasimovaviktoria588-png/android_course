@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">first_project_git</string>
+    <string name="app_name">Intents Homework</string>
+
+    <!-- Строки для нашего задания -->
+    <string name="hint_enter_data">Введите текст или номер телефона</string>
+    <string name="btn_open_second">Открыть вторую Activity</string>
+    <string name="btn_call_friend">Позвонить другу</string>
+    <string name="btn_share_text">Поделиться текстом</string>
 </resources>
